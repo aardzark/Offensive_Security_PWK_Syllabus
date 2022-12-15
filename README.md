@@ -1,5 +1,5 @@
 # Offensive Security's Penetration Testing with Kali Linux Syllabus
-This is a markdown formatted copy of the Offensive Security PEN-200 (Penetration Testing with Kali Linux) 1st ed. syllabus. My coursework is unavailable due to a non-disclosure agreement. This syllabus is publically available and it is not subject to the non-disclosure agreement.
+This is a markdown formatted copy of the Offensive Security PEN-200 (Penetration Testing with Kali Linux) 1st ed. syllabus. My coursework is unavailable due to a non-disclosure agreement. This syllabus is publically available and not subject to the non-disclosure agreement.
 
 # 1. - Getting Comfortable with Kali Linux
 ## 1.1	- Finding	Your Way Around Kali

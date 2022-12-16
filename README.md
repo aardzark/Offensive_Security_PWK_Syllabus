@@ -231,20 +231,3 @@ This is a markdown formatted copy of the Offensive Security PEN-200 (Penetration
 ## 17.2	- Crypting Known Malware with	Software Protectors
 ## 17.3	- Using	Custom/Uncommon	Tools	and	Payloads
 ## 17.4	- Exercise
-# 18. - Assembling	the	Pieces:	Penetration	Test Breakdown
-## 18.1	- Phase	0	– Scenario	Description
-## 18.2	- Phase	1	– Information	Gathering
-## 18.3	- Phase	2	– Vulnerability	Identification	and	Prioritization
-* 18.3.1	- Password Cracking
-## 18.4	- Phase	3	– Research and Development
-## 18.5	- Phase	4	– Exploitation
-* 18.5.1	- Linux	Local	Privilege	Escalation
-## 18.6	- Phase	5	– Post-Exploitation
-* 18.6.1	- Expanding	Influence
-* 18.6.2	- Client Side	Attack Against Internal	Network
-* 18.6.3	- Privilege	Escalation Through AD	Misconfigurations
-* 18.6.4	- Port Tunneling
-* 18.6.5	- SSH	Tunneling	with HTTP	Encapsulation
-* 18.6.6	- Looking	for	High Value Targets
-* 18.6.7	- Domain Privilege	Escalation
-* 18.6.8	- Going	for	the	Kill
